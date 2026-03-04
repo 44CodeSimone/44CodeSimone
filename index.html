@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>44 Code | Atendente de IA</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="hero">
+        <p class="tag">44 Code · Soluções em Tecnologia</p>
+        <h1>Atendente de IA</h1>
+        <p>
+          Tire dúvidas sobre serviços, orçamento, suporte e projetos digitais com
+          uma atendente virtual pronta para ajudar.
+        </p>
+      </header>
+
+      <section class="chat-card" aria-label="Chat de atendimento">
+        <div id="chat" class="chat-window" role="log" aria-live="polite"></div>
+
+        <form id="chat-form" class="chat-form">
+          <label for="message" class="sr-only">Digite sua mensagem</label>
+          <input
+            id="message"
+            name="message"
+            type="text"
+            placeholder="Ex.: Quero um orçamento para site institucional"
+            autocomplete="off"
+            required
+          />
+          <button type="submit">Enviar</button>
+        </form>
+      </section>
+
+      <section class="quick-actions" aria-label="Ações rápidas">
+        <button type="button" data-prompt="Quais serviços a 44 Code oferece?">
+          Serviços
+        </button>
+        <button type="button" data-prompt="Como funciona o orçamento?">
+          Orçamento
+        </button>
+        <button type="button" data-prompt="Vocês também fazem manutenção?">
+          Suporte
+        </button>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,36 +1,28 @@
-## 👋 Olá, eu sou a Simone
+## Atendente de IA - 44 Code Soluções em Tecnologia
 
-🎓 Graduada em **Análise de Sistemas e Tecnologia da Informação**  
-🔐 Em formação em **Cibersegurança**  
-🤖 Entusiasta de **Inteligência Artificial** e novas tecnologias  
+Projeto criado do zero com uma interface web simples para atendimento inicial de clientes da **44 Code**.
 
-Atuo com Tecnologia da Informação de forma **versátil e prática**. Tenho facilidade
-em aprender, me adaptar e **atuar no que for necessário**: análise, criação,
-organização, suporte, desenvolvimento ou melhorias em sistemas.
+### O que a atendente faz
+- Responde dúvidas sobre serviços oferecidos.
+- Explica o fluxo de orçamento.
+- Informa sobre suporte e manutenção.
+- Traz orientações iniciais de segurança.
+- Coleta contexto básico (nome, empresa e necessidade).
 
-Possuo conhecimentos em **linguagens de programação**, **criação de sites** e uso
-de **IA como ferramenta de apoio** para análise, automação e otimização de tarefas.
-Estou em **aprendizado constante** e não me limito a uma única área ou função.
+### Tecnologias
+- HTML
+- CSS
+- JavaScript (vanilla)
 
-Tenho interesse em tecnologia aplicada a soluções reais, com atenção à
-**segurança da informação**, eficiência e boa organização de sistemas.
+### Como executar localmente
+1. Abra a pasta do projeto.
+2. Inicie um servidor local:
+   ```bash
+   python3 -m http.server 8000
+   ```
+3. Acesse `http://localhost:8000`.
 
-### 💡 Áreas de atuação e interesse
-- Análise de Sistemas  
-- Tecnologia da Informação em geral  
-- Cibersegurança e Segurança da Informação  
-- Inteligência Artificial aplicada  
-- Desenvolvimento, criação e manutenção de soluções  
-- Apoio técnico e organização de processos  
-
-### 🛠️ Em desenvolvimento contínuo
-Atualmente realizando cursos e estudos práticos em:
-- Cibersegurança  
-- Inteligência Artificial  
-- Linguagens de programação e web  
-- Boas práticas em TI e sistemas  
-
-📌 Este perfil é meu **portfólio em construção**, onde compartilho estudos,
-aprendizados e projetos conforme vou criando e evoluindo.
-
-✨ Seja bem-vindo(a)!
+### Estrutura
+- `index.html`: layout da aplicação.
+- `styles.css`: estilo visual.
+- `app.js`: lógica da atendente e intenções de resposta.
