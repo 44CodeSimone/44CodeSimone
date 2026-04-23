@@ -11,7 +11,7 @@ My work is driven by practical application: designing and developing real-world 
 ### 🎓 Education & Specialization
 
 * Degree in Systems Analysis and Information Technology
-* Cybersecurity Specialization — *Hackers do Bem Program*
+* Cybersecurity Specialization — Hackers do Bem Program (Brazil)
 * Ongoing studies in DevOps and DevSecOps
 
 ### 📚 Postgraduate Studies (in progress)
@@ -49,6 +49,7 @@ This portfolio includes real-world systems with practical application:
 
 * **Água Nativa**
   Multi-tenant management system with Supabase integration, RLS security, and controlled data access
+  🔗 https://github.com/44CodeSimone/agua-nativa-backend
 
 * **Python API Chat IA**
   Intelligent API with AI-driven responses, domain control, content filtering, and real-time processing
@@ -66,6 +67,13 @@ My goal is to contribute to real-world systems, continuously improving architect
 
 Feel free to connect or reach out.
 
+## 📫 Contact
+
+Email: [tecnologia.44code@outlook.com](mailto:tecnologia.44code@outlook.com)
+LinkedIn: https://www.linkedin.com/in/simone-da-silva-44code/
+
+✨ Thank you for visiting my profile — you are very welcome here.
+
 ---
 
 ## 🇧🇷 Português
@@ -79,7 +87,7 @@ Minha atuação é orientada à prática: desenvolvimento de soluções reais co
 ### 🎓 Formação e Especialização
 
 * Graduação em Análise de Sistemas e Tecnologia da Informação
-* Especialização em Cibersegurança — *Programa Hackers do Bem*
+* Especialização em Cibersegurança — Hackers do Bem Program (Brazil)
 * Estudos em andamento em DevOps e DevSecOps
 
 ### 📚 Pós-graduações (em andamento)
@@ -117,6 +125,7 @@ Este portfólio reúne projetos com aplicação prática:
 
 * **Água Nativa**
   Sistema multi-tenant com integração ao Supabase, uso de RLS e controle seguro de dados
+  🔗 https://github.com/44CodeSimone/agua-nativa-backend
 
 * **Python API Chat IA**
   API inteligente com respostas baseadas em IA, controle de domínio, filtragem de conteúdo e processamento em tempo real
@@ -134,9 +143,17 @@ Meu objetivo é contribuir com sistemas reais, evoluindo continuamente em arquit
 
 Fique à vontade para entrar em contato.
 
+## 📫 Contato
+
+Email: [tecnologia.44code@outlook.com](mailto:tecnologia.44code@outlook.com)
+LinkedIn: https://www.linkedin.com/in/simone-da-silva-44code/
+
+✨ Seja muito bem-vindo(a) ao meu perfil.
+
 ---
 
 ## 👩‍💻 Simone da Silva
 
 Full Stack Developer | Backend • Security • AI
+
 
