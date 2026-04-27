@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Garcia Lavacar | Projeto Site Administrável</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <header class="hero" id="home">
+      <nav class="nav container">
+        <div class="brand" data-bind="brandName">Garcia Lavacar</div>
+        <a class="btn-outline" href="#contato">Contato</a>
+      </nav>
+      <div class="container hero-content">
+        <span class="kicker" data-bind="kicker">Lavagem automotiva premium</span>
+        <h1 data-bind="headline">Seu carro brilhando como novo.</h1>
+        <p data-bind="subheadline">
+          Cuidado completo para exterior e interior com acabamento profissional.
+        </p>
+        <div class="hero-actions">
+          <a class="btn" data-bind-href="primaryCtaHref" href="#servicos" data-bind="primaryCtaLabel">Ver serviços</a>
+          <a class="btn-outline" data-bind-href="secondaryCtaHref" href="#sobre" data-bind="secondaryCtaLabel">Saiba mais</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="section container" id="servicos">
+        <h2>Serviços</h2>
+        <div class="cards" id="services-list"></div>
+      </section>
+
+      <section class="section alt" id="sobre">
+        <div class="container">
+          <h2>Sobre</h2>
+          <p data-bind="aboutText"></p>
+        </div>
+      </section>
+
+      <section class="section container" id="depoimentos">
+        <h2>Depoimentos</h2>
+        <div class="cards" id="testimonials-list"></div>
+      </section>
+
+      <section class="section alt" id="contato">
+        <div class="container">
+          <h2>Contato</h2>
+          <p>
+            WhatsApp: <a data-bind-href="whatsappHref" data-bind="phone"></a><br />
+            Endereço: <span data-bind="address"></span>
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <small>© <span id="year"></span> <span data-bind="brandName"></span>. Todos os direitos reservados.</small>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
