@@ -1,0 +1,73 @@
+:root {
+  --bg: #0c121a;
+  --surface: #121c28;
+  --surface-soft: #e9eef5;
+  --text: #f3f5f7;
+  --text-dark: #1f2933;
+  --accent: #00b4d8;
+  --accent-dark: #0088a3;
+  --radius: 14px;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text-dark);
+  background: #fff;
+  line-height: 1.55;
+}
+.container { width: min(1100px, 92vw); margin: 0 auto; }
+.hero {
+  color: var(--text);
+  background: linear-gradient(120deg, rgba(12,18,26,.92), rgba(12,18,26,.72)),
+    url('https://images.unsplash.com/photo-1607861716497-e65ab29fc7ac?auto=format&fit=crop&w=1900&q=80') center/cover;
+  padding-bottom: 4rem;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+.brand { font-weight: 800; letter-spacing: .4px; }
+.hero-content { padding: 4rem 0 2rem; max-width: 700px; }
+.kicker { display: inline-block; color: #9ee6f3; text-transform: uppercase; font-size: .78rem; letter-spacing: .08em; }
+h1 { font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.1; margin: .6rem 0; }
+.hero-actions { display: flex; gap: .8rem; flex-wrap: wrap; margin-top: 1.2rem; }
+.btn, .btn-outline {
+  display: inline-block;
+  text-decoration: none;
+  padding: .72rem 1rem;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.btn { background: var(--accent); color: #04141a; }
+.btn:hover { background: var(--accent-dark); }
+.btn-outline {
+  border: 1px solid color-mix(in srgb, var(--accent) 50%, white);
+  color: inherit;
+}
+.section { padding: 4rem 0; }
+.section.alt { background: var(--surface-soft); }
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+.card {
+  background: var(--surface);
+  color: var(--text);
+  padding: 1rem;
+  border-radius: var(--radius);
+}
+.card p { margin: .3rem 0 0; opacity: .92; }
+footer {
+  background: var(--bg);
+  color: var(--text);
+  padding: 1.3rem 0;
+  text-align: center;
+}
+@media (max-width: 720px) {
+  .hero-content { padding-top: 2.2rem; }
+}
