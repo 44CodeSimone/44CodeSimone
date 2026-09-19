@@ -1,180 +1,67 @@
-# 👩‍💻 Simone da Silva
+# Simone da Silva
 
-## 🇺🇸 English
+## Founder at 44CODE · Software Engineer · Systems Analyst
 
-Full Stack Developer focused on backend engineering, software architecture, security, and applied artificial intelligence.
+I design and build secure, scalable software systems that turn real operational problems into reliable products.
 
-Graduated in Systems Analysis and Information Technology, with a solid foundation in software development, data systems, and IT processes. Currently expanding expertise in cybersecurity, DevOps, and DevSecOps, with a continuous focus on building secure, scalable, and production-ready systems.
+As the founder of **[44CODE](https://44code.tech/)**, I work across software architecture, backend engineering, intelligent automation and cybersecurity. My portfolio combines product thinking with hands-on delivery: APIs, SaaS platforms, multi-tenant systems, data governance and AI-assisted workflows.
 
-My work is driven by practical application: designing and developing real-world solutions with structured architecture, clear business logic, and attention to long-term maintainability. I am particularly focused on backend systems, API design, security, and intelligent automation using AI.
-
----
-
-## 🎓 Education & Specialization
-
-* Degree in Systems Analysis and Information Technology
-* Cybersecurity Specialization — Hackers do Bem Program (Brazil)
-* Ongoing studies in DevOps and DevSecOps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simone%20da%20Silva-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simone-da-silva-44code/)
+[![Website](https://img.shields.io/badge/44CODE-Technology%20%26%20Solutions-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://44code.tech/)
+[![Email](https://img.shields.io/badge/Email-tecnologia.44code%40outlook.com-6B7280?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:tecnologia.44code@outlook.com)
 
 ---
 
-## 📚 Postgraduate Studies (in progress)
+## What I build
 
-* Web Application Development
-* Software Architecture
-* Database Systems
-* Cloud Computing
+- **Backend and APIs:** Node.js, TypeScript, NestJS, Python, Flask and REST integrations
+- **Product engineering:** Next.js, React, React Native and production-oriented web applications
+- **Architecture:** layered systems, domain boundaries, modular design and maintainable codebases
+- **Data and SaaS:** PostgreSQL, Supabase, multi-tenant isolation, RLS and auditability
+- **Cloud and delivery:** AWS, Docker, Linux, Git/GitHub and deployment workflows
+- **Security:** secure-by-design development, DevSecOps, access control and cybersecurity practices
+- **AI and automation:** controlled LLM flows, intelligent assistants and process automation
+- **IT foundations:** Windows Server, Active Directory and infrastructure support
 
----
+## Selected work
 
-## 🧠 Core Competencies
+| Project | What it demonstrates |
+| --- | --- |
+| **[Água Nativa](https://github.com/44CodeSimone/agua-nativa)** | Multi-tenant SaaS architecture for rural water associations, with domain modeling, tenant isolation, billing, audit trails and documentation-first engineering. |
+| **[Turistei](https://github.com/44CodeSimone/turistei)** | Tourism marketplace architecture with PostgreSQL/Supabase governance, RLS, database-driven business rules, triggers, RPCs and financial automation. |
+| **[44CODE Site Oficial](https://github.com/44CodeSimone/44code-site-oficial)** | The company’s institutional platform, built with TypeScript, React, SSR, design tokens and Cloudflare Workers. |
+| **[Python API Chat IA](https://github.com/44CodeSimone/python-api-chat-ia)** | Flask REST API with controlled AI responses, JSON validation, content filtering and integration-ready automation. |
+| **Axion / Nexa 44** | Assistant concepts focused on operational support, intelligent workflows and the practical use of AI inside business systems. |
 
-* Backend Development (Node.js, APIs, system design)
-* Full Stack Development
-* Software Architecture and layered systems
-* Cybersecurity and secure application design
-* Applied Artificial Intelligence (LLM integration, controlled AI flows)
-* Process automation and intelligent systems
-* Cloud and modern infrastructure
+## Engineering perspective
 
----
+I care about the decisions behind the code: clear business rules, explicit boundaries, traceable data, secure defaults and a system that can evolve without losing its structure.
 
-## ⚙️ Engineering Approach
+My strongest work sits at the intersection of:
 
-* Strong focus on real-world systems rather than theoretical projects
-* Emphasis on clean architecture, separation of concerns and scalability
-* Security-oriented development mindset
-* Continuous learning with practical implementation
-* Ability to adapt across multiple technical domains
+**Business problem → architecture → secure implementation → automation → continuous improvement**
 
----
+## Education and professional development
 
-## 🚀 Selected Work
+- Degree in Systems Analysis and Information Technology
+- Postgraduate studies in Web Application Development, Software Architecture, Database Systems and Cloud Computing
+- Cybersecurity training through **Hackers do Bem**, including Nivelamento, Básico and Fundamental
+- Specialization in **DevOps and DevSecOps**
+- Backend development training through the **Ocean** program
+- Additional training related to health information technology, including e-SUS implementation and the Rede Nacional de Dados em Saúde
 
-🔹 **44CODE Official Website**
-Institutional website with premium identity, SSR, optimized SEO, and integrated intelligent assistant
-🔗 https://44code.tech/
+## Current focus
 
-🔹 **Turistei**
-Marketplace backend with multi-provider architecture and scalable structure
-🔗 https://github.com/44CodeSimone/turistei
+I am deepening my work in backend engineering, SaaS product architecture, Supabase/PostgreSQL, cloud infrastructure, cybersecurity, DevSecOps and AI-powered automation.
 
-🔹 **Água Nativa**
-Multi-tenant management system with Supabase integration, RLS security and controlled data access
-🔗 https://github.com/44CodeSimone/agua-nativa-backend
-
-🔹 **Python API Chat IA**
-Intelligent API with AI-driven responses and real-time processing
-🔗 https://github.com/44CodeSimone/python-api-chat-ia
+I am open to meaningful collaborations, technical partnerships and opportunities where architecture, security and product execution matter.
 
 ---
 
-## 📌 About this profile
+### 🇧🇷 Sobre mim
 
-This GitHub represents my professional portfolio, focused on building structured, functional, and scalable systems. The goal is to demonstrate not only technical knowledge, but the ability to design and implement solutions ready for real-world production.
+Sou fundadora da **44CODE**, analista de sistemas e desenvolvedora de software. Construo APIs, plataformas SaaS, automações inteligentes e sistemas seguros, conectando arquitetura de software com problemas reais de negócio.
 
----
+Este perfil reúne projetos de produto, backend, dados, segurança e inteligência artificial aplicada. Cada repositório é tratado como parte de uma solução maior: com contexto, regras de negócio, documentação e espaço para evolução.
 
-## 🤝 Opportunities
-
-I am open to opportunities in backend, full stack, and security-focused development roles.
-
-My goal is to contribute to real-world systems, continuously improving architecture, security, and intelligent automation.
-
----
-
-## 📫 Contact
-
-* Email: [tecnologia.44code@outlook.com](mailto:tecnologia.44code@outlook.com)
-* LinkedIn: https://www.linkedin.com/in/simone-da-silva-44code/
-* Website: https://44code.tech/
-
----
-
-✨ Thank you for visiting my profile — you are very welcome here.
-
----
-
-# 🇧🇷 Português
-
-Desenvolvedora Full Stack com foco em backend, engenharia de software, arquitetura de sistemas, segurança e inteligência artificial aplicada.
-
-Graduada em Análise de Sistemas e Tecnologia da Informação, com base sólida em desenvolvimento de software, sistemas de dados e processos de TI. Atualmente em evolução nas áreas de cibersegurança, DevOps e DevSecOps, com foco contínuo na construção de sistemas seguros, escaláveis e prontos para produção.
-
-Minha atuação é orientada à prática: desenvolvimento de soluções reais com arquitetura organizada, regras de negócio bem definidas e foco em manutenção e evolução contínua.
-
----
-
-## 🎓 Formação e Especialização
-
-* Graduação em Análise de Sistemas e Tecnologia da Informação
-* Especialização em Cibersegurança — Hackers do Bem Program
-* Estudos em andamento em DevOps e DevSecOps
-
----
-
-## 📚 Pós-graduações (em andamento)
-
-* Desenvolvimento em Aplicações Web
-* Arquitetura de Software
-* Banco de Dados
-* Computação em Nuvem (Cloud Computing)
-
----
-
-## 🧠 Competências Técnicas
-
-* Desenvolvimento Backend (Node.js, APIs)
-* Desenvolvimento Full Stack
-* Arquitetura de software em camadas
-* Cibersegurança e desenvolvimento seguro
-* Inteligência Artificial aplicada
-* Automação de processos
-* Cloud e infraestrutura moderna
-
----
-
-## ⚙️ Abordagem de Engenharia
-
-* Foco em sistemas reais
-* Organização de código e separação de responsabilidades
-* Atenção à segurança e escalabilidade
-* Evolução contínua com prática
-
----
-
-## 🚀 Projetos em destaque
-
-🔹 **44CODE**
-Site institucional com identidade premium e assistente inteligente
-🔗 https://44code.tech/
-
-🔹 **Turistei**
-Backend marketplace multi-fornecedor
-🔗 https://github.com/44CodeSimone/turistei
-
-🔹 **Água Nativa**
-Sistema multi-tenant com Supabase
-🔗 https://github.com/44CodeSimone/agua-nativa-backend
-
-🔹 **Python API Chat IA**
-API inteligente com IA
-🔗 https://github.com/44CodeSimone/python-api-chat-ia
-
----
-
-## 📫 Contato
-
-* Email: [tecnologia.44code@outlook.com](mailto:tecnologia.44code@outlook.com)
-* LinkedIn: https://www.linkedin.com/in/simone-da-silva-44code/
-* Website: https://44code.tech/
-
----
-
-✨ Seja muito bem-vindo(a) ao meu perfil.
-
----
-
-## 👩‍💻 Simone da Silva
-
-Full Stack Developer | Backend • Security • AI
+📍 Santa Catarina, Brasil · 🌐 [44code.tech](https://44code.tech/) · 💼 [LinkedIn](https://www.linkedin.com/in/simone-da-silva-44code/)
