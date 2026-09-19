@@ -112,6 +112,23 @@ Minha atuação combina arquitetura de software, engenharia backend, automação
 - **[Python API Chat IA](https://github.com/44CodeSimone/python-api-chat-ia)** — API REST em Flask com respostas controladas por IA, validação JSON e filtros de conteúdo.
 - **Axion / Nexa 44** — conceitos de assistentes para suporte operacional, fluxos inteligentes e uso prático de IA em sistemas de negócio.
 
+### Mais projetos e experimentos
+
+Estes repositórios fazem parte do meu portfólio de produtos e estudos. Eles mostram a amplitude dos problemas em que atuo; o código-fonte continua nos respectivos repositórios.
+
+| Repositório | O que demonstra |
+| --- | --- |
+| **[Água Nativa Backend](https://github.com/44CodeSimone/agua-nativa-backend)** | Workspace backend da plataforma SaaS Água Nativa. |
+| **[Turistik × 44CODE Briefing](https://github.com/44CodeSimone/turistik-44code-briefing)** | Plataforma de briefing comercial e descoberta de produto para turismo. |
+| **[Turistei Urubici](https://github.com/44CodeSimone/turisteiurubici)** | Iniciativa de produto turístico e experiências de destino. |
+| **[Serenar Bem-Estar](https://github.com/44CodeSimone/serenar-bemestar)** | Produto digital voltado a bem-estar e experiência do cliente. |
+| **[Dona Dora Premium Style](https://github.com/44CodeSimone/dona-dora-premium-style)** | Plataforma de comércio premium com catálogo e fluxos operacionais. |
+| **[Dona Dora Core / Boutique Heartbeat](https://github.com/44CodeSimone/boutique-heartbeat)** | Workspace de continuidade e importação do projeto Dona Dora. |
+| **[Luz do Pampa Admin](https://github.com/44CodeSimone/luz-do-pampa-admin)** | Catálogo digital e administração para marca artesanal sob encomenda. |
+| **[Task Manager using Flask](https://github.com/44CodeSimone/Task-Manager-using-Flask)** | Aplicação Flask autenticada com CRUD, SQLAlchemy, senhas seguras e testes. |
+| **[Estudos MCP / Context](https://github.com/44CodeSimone/serversmcp)** | Estudos e referências sobre servidores MCP e integração de ferramentas de IA. |
+| **[Workspace Context7](https://github.com/44CodeSimone/context7)** | Pesquisa em documentação e ferramentas para desenvolvedores. |
+
 ### Formação e certificações
 
 - Graduação em Análise de Sistemas e Tecnologia da Informação
