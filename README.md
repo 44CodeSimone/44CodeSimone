@@ -47,6 +47,23 @@ As the founder of **[44CODE](https://44code.tech/)**, I work across software arc
 
 </div>
 
+### More projects and experiments
+
+These repositories are part of my broader product and learning portfolio. They are listed here to show the range of problems I work on; the source code remains in their respective repositories.
+
+| Repository | Portfolio signal |
+| --- | --- |
+| **[Água Nativa Backend](https://github.com/44CodeSimone/agua-nativa-backend)** | Backend workspace for the Água Nativa SaaS platform. |
+| **[Turistik × 44CODE Briefing](https://github.com/44CodeSimone/turistik-44code-briefing)** | Commercial briefing and product discovery platform for tourism projects. |
+| **[Turistei Urubici](https://github.com/44CodeSimone/turisteiurubici)** | Tourism product and destination experience initiative. |
+| **[Serenar Bem-Estar](https://github.com/44CodeSimone/serenar-bemestar)** | Digital product focused on wellness and customer experience. |
+| **[Dona Dora Premium Style](https://github.com/44CodeSimone/dona-dora-premium-style)** | Premium commerce platform with catalog, account and operational workflows. |
+| **[Dona Dora Core / Boutique Heartbeat](https://github.com/44CodeSimone/boutique-heartbeat)** | Product continuity and project-import workspace for the Dona Dora platform. |
+| **[Luz do Pampa Admin](https://github.com/44CodeSimone/luz-do-pampa-admin)** | Digital catalog and administration experience for a made-to-order artisan brand. |
+| **[Task Manager using Flask](https://github.com/44CodeSimone/Task-Manager-using-Flask)** | Authenticated Flask application with CRUD, SQLAlchemy, secure passwords and tests. |
+| **[MCP / Context experiments](https://github.com/44CodeSimone/serversmcp)** | Study and reference work around Model Context Protocol servers and AI tool integration. |
+| **[Context7 workspace](https://github.com/44CodeSimone/context7)** | Documentation and developer-tooling research workspace. |
+
 ### Engineering perspective
 
 > Business problem → architecture → secure implementation → automation → continuous improvement
