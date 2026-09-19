@@ -8,7 +8,7 @@
 
 [![44CODE](https://img.shields.io/badge/44CODE-Technology%20%26%20Solutions-111827?style=for-the-badge)](https://44code.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simone-da-silva-44code/)
-[![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=for-the-badge&logo=microsoftoutlook)](mailto:tecnologia.44code@outlook.com)\n[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2049%2099925--6721-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554999256721)
+[![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=for-the-badge&logo=microsoftoutlook)](mailto:tecnologia.44code@outlook.com)\n[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554999256721)
 
 </div>
 
