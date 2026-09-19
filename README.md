@@ -6,10 +6,7 @@
 
 **Secure systems · SaaS architecture · AI automation · Cybersecurity**
 
-[![44CODE](https://img.shields.io/badge/44CODE-Technology%20%26%20Solutions-111827?style=for-the-badge)](https://44code.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simone-da-silva-44code/)
-[![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=for-the-badge&logo=microsoftoutlook)](mailto:tecnologia.44code@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554999256721)
+[44CODE](https://44code.tech/) · [LinkedIn](https://www.linkedin.com/in/simone-da-silva-44code/) · [Email](mailto:tecnologia.44code@outlook.com) · [WhatsApp](https://wa.me/554999256721)
 
 </div>
 
@@ -149,7 +146,6 @@ Engenharia backend, arquitetura de produtos SaaS, Supabase/PostgreSQL, infraestr
 
 **44CODE — Conectando desafios a soluções.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-44CodeSimone-181717?style=flat-square&logo=github)](https://github.com/44CodeSimone)
-[![Website](https://img.shields.io/badge/Website-44code.tech-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://44code.tech/)
+[Website](https://44code.tech/) · [GitHub](https://github.com/44CodeSimone)
 
 </div>
