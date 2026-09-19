@@ -44,11 +44,14 @@ My strongest work sits at the intersection of:
 ## Education and professional development
 
 - Degree in Systems Analysis and Information Technology
-- Postgraduate studies in Web Application Development, Software Architecture, Database Systems and Cloud Computing
-- Cybersecurity training through **Hackers do Bem**, including Nivelamento, Básico and Fundamental
-- Specialization in **DevOps and DevSecOps**
-- Backend development training through the **Ocean** program
-- Additional training related to health information technology, including e-SUS implementation and the Rede Nacional de Dados em Saúde
+- **Pós-graduação em Desenvolvimento em Aplicações Web** — em andamento, término previsto para novembro de 2027
+- **Pós-graduação em Computação em Nuvem (Cloud Computing)** — em andamento, término previsto para novembro de 2027
+- **Pós-graduação em Arquitetura de Software** — em andamento, término previsto para novembro de 2027
+- **Pós-graduação em Banco de Dados** — em andamento, término previsto para novembro de 2027
+- Formação em **Cibersegurança pelo Hackers do Bem**, com certificados de Nivelamento, Básico e Fundamental
+- Certificação / especialização em **DevOps e DevSecOps**
+- Formação de backend pelo programa **Ocean**
+- Cursos complementares em tecnologia da informação em saúde, incluindo implementação e uso do e-SUS e a Rede Nacional de Dados em Saúde
 
 ## Current focus
 
